@@ -1,23 +1,23 @@
 更新时间,#genre#
-2026-08-21 10:30:32,#
+2026-08-22 01:32:23,#
 
 央视频道,#genre#
+CCTV1,http://101.66.199.234:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://101.66.199.20:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://101.66.199.102:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV1,http://101.66.199.234:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://125.42.151.4:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://121.19.134.145:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://120.70.60.179:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://110.80.17.38:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV1,http://113.15.109.216:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://120.70.60.179:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://182.114.49.159:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://121.19.134.116:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://36.136.38.87:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://121.19.134.116:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://113.15.109.216:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://113.25.252.226:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://124.228.160.210:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://124.116.183.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://120.70.60.179:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://125.42.151.4:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://101.66.199.20:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
